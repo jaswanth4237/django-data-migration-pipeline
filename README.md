@@ -1,6 +1,6 @@
 # Django Data Migration Pipeline
 
-Django and PostgreSQL demonstration project for migrating legacy order data into normalized order and order-line tables. It includes a memory-efficient migration command, a deliberately naive implementation for comparison, and a large-data seeder for performance testing.
+A Django and PostgreSQL demonstration project for migrating legacy order data into normalized order and order-line tables. It includes a memory-efficient migration command, a deliberately naive implementation for comparison, and a large-data seeder for performance testing.
 
 ## What it demonstrates
 
